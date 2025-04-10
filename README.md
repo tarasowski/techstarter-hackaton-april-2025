@@ -1,12 +1,26 @@
-# Hackaton @ Techstarter (April 25)
+🎉 **Willkommen zum großen Community-Tag bei Techstarter!** 🚀  
+Heute kommen wir alle als **eine Mega-Klasse** zusammen – und ihr entscheidet selbst, **wo ihr dabei sein wollt**!
 
+Es gibt **keine Pflicht, keine Vorgaben – nur Möglichkeiten.** Ihr könnt euch frei zwischen den **Breakout-Räumen** bewegen, reinschnuppern, lernen, ausprobieren und einfach Spaß haben!  
+Ob ihr Bock auf Hacken, Lernen, Coden oder einfach Chillen habt – **alles ist erlaubt**.
+
+### 🔥 Was steht zur Auswahl?
+Ihr könnt z. B.:
+- bei unserem **Hackathon** mitmachen und eine App bauen
+- coole Projekte in **Bolt.new** oder dem frisch releasten **Firebase Studio** starten
+- euch in Themen wie **Azure, DevOps, Kubernetes, Docker, Git, Terraform, Linux, Ansible, Jenkins/Github Actions** oder **Python** reinfuchsen – mit richtig starken Ressourcen!
+
+Wechselt jederzeit die Räume – **Hop on, Hop off!**  
+Findet euer Thema, macht was euch Spaß macht – **today is about YOU.**
+
+Let’s goooo! 💥💻🎧
 
 - Breakout Bolt.new
   - sign up for free and get 150,000 tokens
   - build your app
 
 - Breakout Firebase
-  - firebase.studio (heute released)
+  - sign up on firebase.studio (heute released)
   - build your app
 
 - Breakout Learn Azure
@@ -35,16 +49,23 @@
 
 - Breakout Terraform
   - https://kodekloud.com/pages/free-labs/terraform
+  - https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003
+  - https://developer.hashicorp.com/terraform/tutorials
 
 - Breakout Linux
   - https://kodekloud.com/pages/free-labs/linux
+  - https://labex.io/skilltrees/linux
 
 - Breakout Ansible
   - https://kodekloud.com/pages/free-labs/ansible
+  - https://docs.ansible.com/ansible/latest/getting_started/index.html
 
 - Breakout Jenkins/Github Actions
   - https://kodekloud.com/pages/free-labs/jenkins/
+  - https://github.com/skills/hello-github-actions
+  - https://github.com/eficode-academy/github-actions-katas
 
 - Breakout Python
-- - https://kodekloud.com/pages/free-labs/python
+  - https://kodekloud.com/pages/free-labs/python
+  - https://developers.google.com/edu/python
 
