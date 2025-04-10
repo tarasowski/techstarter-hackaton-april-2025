@@ -35,10 +35,6 @@ Lerne Cloud mit Microsoft Azure – inkl. Zertifizierungsfragen (AZ-900):
 
 ---
 
-Wenn du noch was kürzen, ergänzen oder stylen willst – einfach sagen!
-
----
-
 ### 🔧 **Breakout: DevOps**
 Lerne die Grundlagen von DevOps und CI/CD:
 - [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/devops)
