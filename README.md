@@ -1,71 +1,139 @@
-🎉 **Willkommen zum großen Community-Tag bei Techstarter!** 🚀  
-Heute kommen wir alle als **eine Mega-Klasse** zusammen – und ihr entscheidet selbst, **wo ihr dabei sein wollt**!
+# 🎉 Willkommen zum großen Community-Tag bei Techstarter! 🚀
 
-Es gibt **keine Pflicht, keine Vorgaben – nur Möglichkeiten.** Ihr könnt euch frei zwischen den **Breakout-Räumen** bewegen, reinschnuppern, lernen, ausprobieren und einfach Spaß haben!  
-Ob ihr Bock auf Hacken, Lernen, Coden oder einfach Chillen habt – **alles ist erlaubt**.
+Heute kommen wir alle als **eine Mega-Klasse** zusammen – und **ihr entscheidet selbst**, wo ihr heute Bock drauf habt!
 
-### 🔥 Was steht zur Auswahl?
-Ihr könnt z. B.:
-- bei unserem **Hackathon** mitmachen und eine App bauen
-- coole Projekte in **Bolt.new** oder dem frisch releasten **Firebase Studio** starten
-- euch in Themen wie **Azure, DevOps, Kubernetes, Docker, Git, Terraform, Linux, Ansible, Jenkins/Github Actions** oder **Python** reinfuchsen – mit richtig starken Ressourcen!
+Es gibt **keine Pflicht, keine Vorgaben – nur Möglichkeiten.**  
+Ihr könnt euch frei zwischen den **Breakout-Räumen** bewegen, reinschnuppern, lernen, ausprobieren und einfach Spaß haben!
 
-Wechselt jederzeit die Räume – **Hop on, Hop off!**  
-Findet euer Thema, macht was euch Spaß macht – **today is about YOU.**
+Ob ihr Bock auf Hacken, Lernen, Coden oder einfach Chillen habt – **alles ist erlaubt**.  
+Wechselt jederzeit die Räume – **Hop on, Hop off!**
 
-Let’s goooo! 💥💻🎧
+---
 
-- Breakout Bolt.new
-  - sign up for free and get 150,000 tokens
-  - build your app
+## 🔥 Was steht zur Auswahl?
 
-- Breakout Firebase
-  - sign up on firebase.studio (heute released)
-  - build your app
+### 💻 **Hackathon @ Techstarter (April 25)**
+Mach beim großen Techstarter Hackathon mit! Bau eine eigene App – alleine oder im Team.  
+Der perfekte Ort, um loszulegen, kreativ zu sein und zu zeigen, was du kannst!
 
-- Breakout Learn Azure
-  - https://insidethemicrosoftcloud.com/az900quiz/
-  - https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#if-you-plan-to-web-application-in-the-azure-platform-as-a-service-solution-of-azure-web-apps-then-the-platform-will-have-the-ability-to-scale-automatically
-  - https://thomasmitchell.net/az-900-mock-exam/
+---
 
-- Breakout DevOps
-  - https://kodekloud.com/pages/free-labs/devops
-  - https://www.youtube.com/watch?v=j5Zsa_eOXeY
+## 🚪 Breakouts – Themenräume zum Eintauchen
 
-- Breakout k8s
-  - https://kodekloud.com/pages/free-labs/kubernetes
-  - https://collabnix.github.io/kubelabs/
-  - https://www.youtube.com/watch?v=1SaPfm96lY4
+### 🚀 **Breakout: Bolt.new**
+- Sofort loslegen: [bolt.new](https://bolt.new)
+- Kostenlos registrieren und **150.000 Tokens** bekommen
+- Bau deine App in der Cloud – kein Setup, alles im Browser  
+➡️ **Ideal für Frontend- oder Fullstack-Projekte**
 
-- Breakout Docker
-  - https://kodekloud.com/pages/free-labs/docker
-  - https://dockerlabs.collabnix.com/intermediate/workshop/
-  - https://www.youtube.com/watch?v=DESdVoKhIxY
+---
 
-- Breakout Git
-  - https://kodekloud.com/pages/free-labs/git
-  - https://www.youtube.com/watch?v=8JJ101D3knE
-  - https://git-scm.com/docs
+### 🔥 **Breakout: Firebase Studio**
+- Anmeldung auf: [firebase.studio](https://firebase.studio) (brandneu heute gelauncht!)
+- App bauen mit Realtime DB, Auth, Hosting und mehr  
+➡️ **Perfekt für App-Prototypen und mobile Projekte**
 
-- Breakout Terraform
-  - https://kodekloud.com/pages/free-labs/terraform
-  - https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003
-  - https://developer.hashicorp.com/terraform/tutorials
+---
 
-- Breakout Linux
-  - https://kodekloud.com/pages/free-labs/linux
-  - https://labex.io/skilltrees/linux
+### ☁️ **Breakout: Learn Azure**
+Lerne Cloud mit Microsoft Azure – inkl. Zertifizierungsfragen (AZ-900):
+- [AZ-900 Quiz](https://insidethemicrosoftcloud.com/az900quiz/)
+- [Übungsfragen auf GitHub](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers)
+- [Mock Exam](https://thomasmitchell.net/az-900-mock-exam/)  
+➡️ **Top für alle, die ins Cloud-Game einsteigen wollen**
 
-- Breakout Ansible
-  - https://kodekloud.com/pages/free-labs/ansible
-  - https://docs.ansible.com/ansible/latest/getting_started/index.html
+---
 
-- Breakout Jenkins/Github Actions
-  - https://kodekloud.com/pages/free-labs/jenkins/
-  - https://github.com/skills/hello-github-actions
-  - https://github.com/eficode-academy/github-actions-katas
+### 🔧 **Breakout: DevOps**
+Lerne die Grundlagen von DevOps und CI/CD:
+- [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/devops)
+- [Einsteiger-Video (YouTube)](https://www.youtube.com/watch?v=j5Zsa_eOXeY)  
+➡️ **Verstehen, wie moderne Software ausgeliefert wird**
 
-- Breakout Python
-  - https://kodekloud.com/pages/free-labs/python
-  - https://developers.google.com/edu/python
+---
 
+### ☸️ **Breakout: Kubernetes (k8s)**
+Starte mit Container-Orchestration:
+- [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/kubernetes)
+- [Kubelabs Guides](https://collabnix.github.io/kubelabs/)
+- [Einsteiger-Video](https://www.youtube.com/watch?v=1SaPfm96lY4)  
+➡️ **Für alle, die mit Containern skalieren wollen**
+
+---
+
+### 🐳 **Breakout: Docker**
+Build – Ship – Run: Alles über Containerisierung:
+- [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/docker)
+- [Dockerlabs Workshop](https://dockerlabs.collabnix.com/intermediate/workshop/)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=DESdVoKhIxY)  
+➡️ **Grundwissen für DevOps und Microservices**
+
+---
+
+### 🧬 **Breakout: Git**
+Versionierung meistern wie ein Profi:
+- [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/git)
+- [Einsteiger-Video](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Git Doku](https://git-scm.com/docs)  
+➡️ **Must-have Skill für alle Entwickler:innen**
+
+---
+
+### 🌍 **Breakout: Terraform**
+Infrastructure as Code verstehen & anwenden:
+- [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/terraform)
+- [HashiCorp Tutorials](https://developer.hashicorp.com/terraform/tutorials)  
+➡️ **Für alle, die Cloud-Infrastruktur automatisieren wollen**
+
+---
+
+### 🐧 **Breakout: Linux**
+Command Line Love? Werde fit im Terminal:
+- [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/linux)
+- [Linux Skilltree auf Labex](https://labex.io/skilltrees/linux)  
+➡️ **Grundlagen für alle Tech-Themen**
+
+---
+
+### 📦 **Breakout: Ansible**
+Automatisierung auf einem neuen Level:
+- [Labs auf KodeKloud](https://kodekloud.com/pages/free-labs/ansible)
+- [Getting Started Guide](https://docs.ansible.com/ansible/latest/getting_started/index.html)  
+➡️ **Server konfigurieren wie ein Pro**
+
+---
+
+### ⚙️ **Breakout: Jenkins & GitHub Actions**
+CI/CD Pipelines aufsetzen und automatisieren:
+- [Labs zu Jenkins](https://kodekloud.com/pages/free-labs/jenkins/)
+- [GitHub Actions Skills](https://github.com/skills/hello-github-actions)
+- [GitHub Actions Katas](https://github.com/eficode-academy/github-actions-katas)  
+➡️ **Deployen mit einem Push**
+
+---
+
+### 🐍 **Breakout: Python**
+Deine erste Automatisierung, App oder AI starten:
+- [Python Labs](https://kodekloud.com/pages/free-labs/python)
+- [Google Python Kurs](https://developers.google.com/edu/python)  
+➡️ **Perfekter Einstieg ins Programmieren**
+
+---
+
+### 🕶️ **Breakout: Hackerspace**
+Du willst einfach dein eigenes Ding machen?  
+Hier ist Platz für alles, was nirgends reinpasst:
+
+- Eigene Projekte
+- AI Spielereien
+- CTFs / Security
+- Hardware Hacks
+- Basteln, Tüfteln, Chaos & Kreativität  
+
+**Welcome to the Freestyle Zone. Bring deinen Vibe mit.**
+
+---
+
+Have fun & good vibes only 🎧🔥  
+**Let’s code, hack & learn together!**
+```
