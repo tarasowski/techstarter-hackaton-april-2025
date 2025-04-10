@@ -1,7 +1,5 @@
 # Hackaton @ Techstarter (April 25)
 
-https://kodekloud.com/pages/free-labs/
-
 
 - Breakout Bolt.new
   - sign up for free and get 150,000 tokens
