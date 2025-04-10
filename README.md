@@ -121,7 +121,6 @@ Starte mit Amazon Web Services – von Grundlagen bis zur Zertifizierung:
 - [Solutions Architect Lernpfad](https://github.com/tarasowski/aws-certified-solutions-architect-exam-saa-c003)
 - [Cloud Practitioner Notizen + Übungen](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master/practice-exam)
 - [Quiz Trainer von Techstarter](https://quiz-trainer.techstarter.academy/login)
-- [Techquiz.de – Test dein Wissen](https://techquiz.de)  
 ➡️ **Super für alle, die in AWS einsteigen oder sich zertifizieren wollen**
 
 ---
