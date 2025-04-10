@@ -12,10 +12,6 @@ Wechselt jederzeit die Räume – **Hop on, Hop off!**
 
 ## 🔥 Was steht zur Auswahl?
 
-### 💻 **Hackathon @ Techstarter (April 25)**
-Mach beim großen Techstarter Hackathon mit! Bau eine eigene App – alleine oder im Team.  
-Der perfekte Ort, um loszulegen, kreativ zu sein und zu zeigen, was du kannst!
-
 ---
 
 ## 🚪 Breakouts – Themenräume zum Eintauchen
