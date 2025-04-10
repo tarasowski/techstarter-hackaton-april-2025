@@ -12,8 +12,6 @@ Wechselt jederzeit die Räume – **Hop on, Hop off!**
 
 ## 🔥 Was steht zur Auswahl?
 
----
-
 ## 🚪 Breakouts – Themenräume zum Eintauchen
 
 ### 🚀 **Breakout: Bolt.new**
