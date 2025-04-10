@@ -112,11 +112,21 @@ Deine erste Automatisierung, App oder AI starten:
 
 ---
 
-### Breakout: AWS
-- https://github.com/tarasowski/aws-certified-solutions-architect-exam-saa-c003
-- https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master/practice-exam
-- https://quiz-trainer.techstarter.academy/login
-- techquiz.de
+Klar! Hier ist der AWS-Breakout formatiert im selben Stil wie die anderen:
+
+---
+
+### ☁️ **Breakout: AWS**
+Starte mit Amazon Web Services – von Grundlagen bis zur Zertifizierung:
+- [Solutions Architect Lernpfad](https://github.com/tarasowski/aws-certified-solutions-architect-exam-saa-c003)
+- [Cloud Practitioner Notizen + Übungen](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master/practice-exam)
+- [Quiz Trainer von Techstarter](https://quiz-trainer.techstarter.academy/login)
+- [Techquiz.de – Test dein Wissen](https://techquiz.de)  
+➡️ **Super für alle, die in AWS einsteigen oder sich zertifizieren wollen**
+
+---
+
+Sag Bescheid, wenn du noch was anderes formatiert haben willst!
 
 ### 🕶️ **Breakout: Hackerspace**
 Du willst einfach dein eigenes Ding machen?  
