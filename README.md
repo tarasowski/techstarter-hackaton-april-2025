@@ -31,7 +31,6 @@ Wechselt jederzeit die Räume – **Hop on, Hop off!**
 Lerne Cloud mit Microsoft Azure – inkl. Zertifizierungsfragen (AZ-900):
 - [AZ-900 Quiz](https://insidethemicrosoftcloud.com/az900quiz/)
 - [Übungsfragen auf GitHub](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers)
-- [Mock Exam](https://thomasmitchell.net/az-900-mock-exam/)  
 ➡️ **Top für alle, die ins Cloud-Game einsteigen wollen**
 
 ---
@@ -110,9 +109,6 @@ Deine erste Automatisierung, App oder AI starten:
 - [Google Python Kurs](https://developers.google.com/edu/python)  
 ➡️ **Perfekter Einstieg ins Programmieren**
 
----
-
-Klar! Hier ist der AWS-Breakout formatiert im selben Stil wie die anderen:
 
 ---
 
