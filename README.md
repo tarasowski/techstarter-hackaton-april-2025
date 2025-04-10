@@ -27,11 +27,15 @@ Wechselt jederzeit die Räume – **Hop on, Hop off!**
 
 ---
 
-### ☁️ **Breakout: Learn Azure**
+### ☁️ **Breakout: Learn Azure**  
 Lerne Cloud mit Microsoft Azure – inkl. Zertifizierungsfragen (AZ-900):
 - [AZ-900 Quiz](https://insidethemicrosoftcloud.com/az900quiz/)
-- [Übungsfragen auf GitHub](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers)
-  ➡️ **Top für alle, die ins Cloud-Game einsteigen wollen**
+- [Übungsfragen auf GitHub](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers)  
+➡️ **Top für alle, die ins Cloud-Game einsteigen wollen**
+
+---
+
+Wenn du noch was kürzen, ergänzen oder stylen willst – einfach sagen!
 
 ---
 
