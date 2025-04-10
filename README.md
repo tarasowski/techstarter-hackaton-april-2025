@@ -8,11 +8,9 @@ Ihr könnt euch frei zwischen den **Breakout-Räumen** bewegen, reinschnuppern, 
 Ob ihr Bock auf Hacken, Lernen, Coden oder einfach Chillen habt – **alles ist erlaubt**.  
 Wechselt jederzeit die Räume – **Hop on, Hop off!**
 
----
-
-## 🔥 Was steht zur Auswahl?
-
 ## 🚪 Breakouts – Themenräume zum Eintauchen
+
+---
 
 ### 🚀 **Breakout: Bolt.new**
 - Sofort loslegen: [bolt.new](https://bolt.new)
